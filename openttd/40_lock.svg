@@ -1,0 +1,16 @@
+<svg width="7px" height="9px" xmlns="http://www.w3.org/2000/svg" version="1.1"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <radialGradient id="a" cx="2" cy="4" r="4" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ff4" />
+            <stop offset=".5" stop-color="#fd0" />
+            <stop offset="1" stop-color="#c80" />
+        </radialGradient>
+    </defs>
+    <g transform="scale(1, -1) translate(0, -9)">
+        <path fill="#000"
+            d="m0,0 l7,0 0,6 -1,0 0,0.5 a2.5,2.5 0 0 1 -5,0 l0,-0.5 -1,0 0,-6 z m2,6 v0.5 a1.5,1.5 0 0 0 3,0 v-0.5 z" />
+        <path fill="#666" d="m2,6 h1 v0.5 a0.5,0.5 0 0 0 1,0 v-0.5 h1 v0.5 a1.5,1.5 0 0 1 -3,0 v-0.5 z" />
+        <path fill="url(#a)" d="m1,1 h5 v4 h-5 v-4 z" />
+    </g>
+</svg>

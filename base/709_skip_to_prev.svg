@@ -1,0 +1,9 @@
+<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+    <g transform="scale(1, -1) translate(3, -17)">
+        <path d="
+m0,0 h2 v14 h-2 v-14 z
+m1.5,7 l7,-7 0,14 -7,-7 z
+m6.5,0 l7,-7 0,14 -7,-7 z
+" />
+    </g>
+</svg>

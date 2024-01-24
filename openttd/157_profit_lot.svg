@@ -1,0 +1,13 @@
+<svg width="8" height="8" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+   <defs>
+      <linearGradient id="prefix__a">
+         <stop offset="0" stop-color="#67b314" />
+         <stop offset="1" stop-color="#182a04" />
+      </linearGradient>
+      <linearGradient xlink:href="#prefix__a" id="prefix__b" x1="1" y1="1" x2="7" y2="7"
+         gradientUnits="userSpaceOnUse" />
+   </defs>
+   <circle cx="4" cy="4" r="4" />
+   <circle cy="4" cx="4" r="3.5" fill="url(#prefix__b)" fill-rule="evenodd" />
+   <circle cx="4" cy="4" r="3" fill="#40700c" fill-rule="evenodd" />
+</svg>

@@ -1,0 +1,25 @@
+<svg width="14" height="8" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="a" x1="14" y1="0" x2="14" y1="8" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#a8a8a8" />
+            <stop offset="1" stop-color="#2d2d2d" />
+        </linearGradient>
+        <linearGradient id="b" x1="7" y1="0" x2="21" y2="4" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-opacity="0" stop-color="#ffffff" />
+            <stop offset=".5" stop-opacity=".7" stop-color="#000000" />
+        </linearGradient>
+        <linearGradient id="c" x1="0" y1="0" x2="14" y2="8" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-opacity=".5" stop-color="#ffffff"/>
+            <stop offset="1" stop-opacity=".25" stop-color="#444444"/>
+        </linearGradient>
+        <linearGradient id="d" x1="0" y1="0" x2="7" y2="8" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-opacity=".2" stop-color="#a8a8a8" />
+            <stop offset=".5" stop-opacity=".4" stop-color="#2d2d2d" />
+            <stop offset="1" stop-opacity=".5" stop-color="#a8a8a8" />
+        </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="14" height="8" fill="url(#a)" />
+    <rect x="0" y="0" width="14" height="8" fill="url(#b)" />
+    <rect x="0" y="0" width="14" height="8" fill="url(#c)" />
+    <rect x="0" y="0" width="14" height="8" fill="url(#d)" />
+</svg>

@@ -1,0 +1,16 @@
+<svg width="10" height="10" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+   <defs>
+      <linearGradient id="prefix__a" x1="0" y1="0" x2="7" y2="7" gradientUnits="userSpaceOnUse">
+         <stop offset="0" stop-color="#808080" />
+         <stop offset="0.25" stop-color="#404040" />
+         <stop offset="1" stop-color="#101010" />
+      </linearGradient>
+      <linearGradient id="prefix__b" x1="1" y1="1" x2="7" y2="7" gradientUnits="userSpaceOnUse">
+         <stop offset="0" stop-color="#d0d0d0" />
+         <stop offset="1" stop-color="#404040" />
+      </linearGradient>
+   </defs>
+   <rect x="2" y="2" width="8" height="8" fill="#333" />
+   <rect x="0" y="0" width="9" height="9" fill="url(#prefix__a)" />
+   <rect x="1" y="1" width="7" height="7" fill="url(#prefix__b)" />
+</svg>
