@@ -1,4 +1,4 @@
-<svg width="9px" height="7px" xmlns="http://www.w3.org/2000/svg" version="1.1"
+<svg width="9" height="7" xmlns="http://www.w3.org/2000/svg" version="1.1"
     xmlns:xlink="http://www.w3.org/1999/xlink">
     <g transform="scale(1, -1) translate(0, -7)">
         <path d="m1,0 h7 v7 h-7 v-7 z m1,1 v5 h5 v-5 h-5 z" />
